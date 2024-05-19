@@ -18,10 +18,5 @@ button {
 }
 
 #clickCounter {
-    font-size: 20px;
-    color: #f1f1f1;
-    background-color: #333;
     padding: 10px;
-    border-radius: 10px;
-    margin: 10px;
 }
